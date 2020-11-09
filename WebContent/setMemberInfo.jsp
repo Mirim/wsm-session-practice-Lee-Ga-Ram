@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=utf-8"%>
 <%
-	session.setAttribute("MEMBERID", "madvirus");
+	session.setAttribute("MEMBERID", "dlrkfka");
 	session.setAttribute("NAME", "이가람");
 %>
 <html>
